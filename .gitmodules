@@ -1,0 +1,3 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/michaelbaud/React-Node-MongoDB---exo-CRUD-server
